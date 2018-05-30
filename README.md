@@ -1,2 +1,2 @@
-# ContactProject
+# Contact
 Contact
